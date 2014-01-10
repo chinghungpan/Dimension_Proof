@@ -125,6 +125,7 @@ int main () {
 		count=RnnAlg.doAlgorithm(query,object,DIMENSION);
 		cout<<"==========="<<count<<endl;
 		myfile << count << "\n";
+
 	}
 
 	//print query
