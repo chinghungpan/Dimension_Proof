@@ -92,6 +92,18 @@ int main () {
 	object.push_back(temp);
 	temp.clear();
 	//-------------------------------------
+	temp.push_back(0.424264);
+	temp.push_back(0.424264);
+	temp.push_back(1.0392);
+	object.push_back(temp);
+	temp.clear();
+	//-------------------------------------
+	temp.push_back(-0.424264);
+	temp.push_back(-0.424264);
+	temp.push_back(1.0392);
+	object.push_back(temp);
+	temp.clear();
+	//-------------------------------------
 
 	//create query
 
