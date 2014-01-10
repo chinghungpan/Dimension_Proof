@@ -106,7 +106,6 @@ int main () {
 	//-------------------------------------
 
 	//create query
-
 	int count=0;
 	int countTime = 0;
 	ofstream myfile;
